@@ -1,0 +1,649 @@
+<resources>
+    <string name="app_name">BetterBallers</string>
+
+    <string name="basketball_overview">
+     Basketball is a non-contact sport played on a rectangular court. While most often played as a team sport with five players on each side, three-on-three, two-on-two, and one-on-one competitions are also common. The objective is to shoot a ball through a hoop 18 inches (46 cm) in diameter and 10 feet (3.048 m) high that is mounted to a backboard at each end of the court. The game was invented in 1891 by Dr. James Naismith, who would be the first basketball coach of the Kansas Jayhawks, one of the most successful programs in the games history.\n\n
+     He also wanted the game to be safer and so the sport was played with soccer balls and peach baskets placed at about 10 feet high, involved less physical contact, drew players attention on the ball and not on other players. He developed a set of thirteen rules and the first match was held on December 21st, 1891 among two teams of nine players each at Springfield College.\n\n
+     He rules of the game were changed slightly and many more rules were added to make it better and more interesting with time. The actual game did not allow dribbling, used closed baskets and was played in a smaller court. The game was initially played in YMCA gyms. YMCA helped spreading the game to other parts of America and the game increased YMCA memberships too. It was popularized by cable televisions and spread to other parts of the globe by North American soldiers fighting in World War I.\n\n
+
+     Basketball - Objective
+     The main objective of basketball is to make a goal and score points. A goal is made by shooting the ball through the basket or hoop. The goal post or basket for a team is in the opponent’s court. Each team should not only try to make a goal and prevent the opposite team from taking control of the ball, but should also try to protect the basket in their court and prevent the opponent from making a goal.\n\n
+
+     Basketball - Team Size
+     Each team may have twelve players entitled to play the game. Five players from a team can play at any time in the court and they may be substituted at anytime during the play. Each team may have a coach and an assistant coach. Each team may have a group of less than five non-players with different responsibilities. They are usually manager, doctor, physiotherapist, statistician, and interpreter.\n\n
+
+     Participating Countries
+     As basketball originated in the United States, it is very popular in the country and has spread to other surrounding countries. NBA should be credited for expanding the game and creating a huge fan base throughout the world.\n\n
+
+     China dominates Asian Basketball Championships and has won many titles. Basketball is the most popular sport in Philippines. Iran, South Korea and Japan are also good competitors to China in FIBA Asia Championships. Russia defeated United States at 1972 Summer Olympics and caught the world’s attention.\n\n
+
+     Some of the countries that produced basketball champions are: Greece, Lithuania, Serbia, Spain, France, Canada, USA, Brazil, Italy, Argentina, and Montenegro.\n\n
+    </string>
+
+
+    <string name="Basketball_Equipment1">
+      Basketball is a simple game, it doesn’t require any equipment other than a hoop, a ball and a flat court. Even two players can play and have fun with basketball.\n
+    </string>
+
+    <string name="Basketball_Equipment2">
+     \n A hoop or basket with net around its circumference and of 18 inch diameter is firmly hung horizontally from a rectangular backboard of 3.5 feet height and 6 feet width on either sides of the court. The rim of the hoop is 10 feet above the ground. The backboard in various international competitions is transparent for better visibility.\n
+    </string>
+
+    <string name="Basketball_Equipment3">
+     \nBasketball is an orange-colored and rough-textured spherical ball with black contours usually made of leather or composite tough materials.\n\n
+
+    The ball is bounced continuously (dribbling), thrown through the air to other players (passing), and towards the basket (shooting). So a typical basketball must be very durable and easy to hold on to.\n\n
+
+    Other Equipment\n\n
+    There may be some more equipment for convenience.\n\n
+    · Some international courts have a game clock that makes a beep at the end of each period. Some also show the shot clock countdown.\n
+    · Sometimes, the back boards have bordering lights that light up and indicate that a period is about to end.\n
+    </string>
+
+    <string name="basketballhowtoplay">
+     The ball is tossed in the air to start the game. One of the players deflects it to a teammate. It is dribbled and passed among the teammates to protect the ball and to make a goal. The basket or the hoop is placed horizontally at the height of 10 feet on a back board. Each team tries to protect the goal on their side while trying to make a goal on the opponent’s side of the court.\n\n
+     The opposite team tries to get the ball, take control of it while bouncing and tries to grab it while it is passed among the team mates to prevent a goal. When a player commits a foul, the other team gets a chance of free throw or to inbound the ball. Each goal carries two points and each free throw one point. The team with higher score wins the game. Players may be substituted when a substitute asks for it.\n\n
+     The game starts when the referee throws a jump ball. In the international sport, each game is divided into four 10 minute periods. However, if there’s a tie between the teams they play for an extra period of 5 minutes.\n\n
+     After the first period and after the third period, the players take a 2 minute break. After the second period the players take a 15 minute break and exchange baskets. After a break, the last player holding the ball throws the ball in and starts the next period.\n\n
+    </string>
+
+    <string name="basketballhowtoplay1">
+     The play time may also be increased if a foul is committed just before the time ticks off. In such cases a free throw is granted despite the time lapse.\n\n
+    If a player throws the ball before the time lapses, but the ball flies down the basket after the timer ticks off, the goal is still considered.\n\n
+
+    Rules of the Game\n\n
+
+    Though basketball was invented with a set of thirteen rules, some rules were amended and many rules were added to help players play faster and make the game more interesting for the viewers. Some rules were introduced to minimize the advantage of height enjoyed by taller players.\n\n
+    There are many variants of the game at different places and these branches have governing bodies formulating rules of the game. In the US, basketball tournaments are very popular in colleges. Their rules in inter-collegiate championships are slightly different from the professional basketball sport.\n\n
+    · Any player possessing the ball cannot stay inside the foul ring of the court with his back to the basket for more than three seconds\n
+    · No player should touch the ball, basket or its rim while the ball is passing through the basket.\n
+    · Players are allowed to make a brief contact with an opposing player trying to pass the ball or make a goal, but cannot obstruct them.\n
+    · Players making more than five fouls are removed from the game.\n
+    · Fouls as per the situation, grant free throws to the opposing team and the ball is handed over to them.\n
+    · Players cannot carry the ball with them and walk or run. This is called travelling\n
+    · When a player is surrounded by opponents, within one meter radius, trying to get hold of the ball, he/she cannot have the ball for more than five seconds. Such player is considered to be close guarded.\n
+    · Players of the team possessing the ball shouldn’t stay in the restricted area of the opponent’s team for more than three seconds.\n
+    · They should shoot the ball before the shot clock clicks.\n\n
+
+
+    What a Basketball Player Should not Do?\n\n
+
+    A player should not −\n
+    · Throw the ball away out of the court boundaries.\n
+    · Step on a foul line while free throwing the ball.\n
+    · Step on the end or side line while passing the ball to a teammate.\n
+    · Kick the ball.\n
+    · Dribble or hit the ball with their fist.\n
+    · Double dribble the ball.\n
+    · Hold the ball and stay in the backcourt that contains their basket for more than 8 seconds, else the team responsible should bear a foul.\n
+    If a team or player violates any of the rules mentioned above, the team loses the ball and the ball is handed over to the opponent team. The opponent team throws it from the side of the court, this is called a throw-in.\n
+    Rules for women are slightly modified to lessen strain on players. Clara Baer, who introduced basketball for women, published a set of rules for women players in 1895.\n\n
+
+    Regulating Bodies\n\n
+
+    FIBA − Fédération Internationale de Basketball Amateur (FIBA) is the international regulating body of basketball. It governs rules, appoints referees for international tournaments and conducts world cups every four years for both men and women. It is based in Geneva.\n
+    NBA − A tutorial on basketball cannot be complete without mentioning NBA, the most important basketball league based in North America. NBA organizes league championships and is a member of USA Basketball association. Its players are highly paid and they also play for other teams outside the US. Attracted by the huge talent in the US and high remunerations, many international players also play in NBA league matches. NBA formulates rules for its matches that may be slightly different from the ones stated by FIBA.\n\n
+    </string>
+
+    <string name="Basketball_Variants">
+     There are many variants of basketball which are usually played when there are lesser number of players, sometimes in a half court and mostly without a referee. These games are popularly known as pick-up basketball games.\n\n
+
+     3-against-3 or 3-on-3\n\n
+
+    This is a popular game, usually played in a half court when six players have gathered in the court and are waiting for the other players to turn up. This game continues till one of the teams achieves a set score, usually 12 or 21. This game can be played with any even number of players. The rules of the game are mostly similar to the official sport, but the team that catches a rebound has to shoot the ball away from the three point line.\n\n
+
+     21 or Cut Throat\n\n
+
+    This is an individual sport and any number of players can play it. The first player making exactly 21 points wins the game. A goal carries 2 or 3 points, and is usually followed by a charity free throw worth one point or a charity free throw from three point line worth two points. A successful charity shot may be followed by another one till the player achieves 21 points. But, if the player achieves 22 points, the score goes back to 13 or 15 points. The game is less restrictive and more interesting as there are no fouls at all.\n\n
+
+    Chicago\n\n
+
+    This game is similar to 21, but the main difference is that players take turns and stay out of the court. For example, when three players play the game if the first one scores a goal, the second leaves the court and the third one comes down to play, and if the third one scores, the first one has to leave the court for the second and the third player.\n\n
+
+    Horse\n\n
+
+    This is an interesting game where two players challenge each other’s shooting ability and the shots are not defended. Each alphabet of the word ‘HORSE’ is used to award a negative point.\n\n
+
+    A player challenges the next player by shooting the ball from any place he chooses, and if he makes a goal the next player has to make a goal from the same point, else he gets a negative ‘H’ tag and the first player again gets a chance to throw a new challenge again. However, if the first player challenging the other misses the goal, the next player gets a chance to shoot the ball from any point in the court and challenges the first one.\n\n
+
+     If a challenge is met, the player who took up the challenge gets a chance to shoot the ball from any preferable point in the court. The player who first starts the game and has five negative points on oneself is termed as “Horse” and is the loser of the game.\n\n
+
+    Shooting Contest\n\n
+
+    There are different forms of shooting contests, either on or outside the three point line. The players may choose rules whether the shots may be defended or undefended. There is an undefended shooting contest from the three point semi circle called around the world or around the key, where players advance from one end of the circle to the other as they successfully make goals. When a player misses a goal, the next player gets a chance. Sometimes, players have to start each chance afresh, and sometimes players agree to mark the spot they made the last successful goal.\n\n
+
+     Slam Ball\n\n
+    A slam ball court has four trampolines placed below the basket and players have to jump with the ball and make a dunk shot. The scoring rules may be a bit different.\n\n
+
+    </string>
+
+    <string name="Basketball_Common_Terms">
+    We have listed here a few common terms frequently used in Basketball\n\n
+    · Offending team − The team possessing the ball is the offending team.\n
+    · Defending team − The team that doesn’t possess the ball and tries to get control of it is the defending team.\n
+    · Shot clock − Shot clock indicates the amount of time allotted to an offending team to make a goal. If the team cannot make a goal it is a shot clock violation and the ball is given to the opposite team to inbound it. The clock usually is set for 24 seconds in FIBA and NBA matches. The clock is set back to the full limit, when the ball touches the basket or passes through the basket. In some cases, after a foul the shot clock is usually set to a lower number, 14 in NBA and FINA matches.\n
+    · Key − The painted area of 16 feet wide in professional basketball courts.\n
+    · The basketball gun − This ball gun shoots the basketball back to the player. It is used while training.\n
+    · Dunk shot − A player takes a dunk shot when he/she jumps and pushes the ball through the basket.\n
+    · Free throw − When a player is granted a free throw he/she can try to make a goal from 15 feet without any obstruction from the opposing team. Free throws are also granted to opposing team when a player makes technical fouls.\n
+    · Penalty situation − A team falls in penalty situation if it commits five fouls in one quarter. Penalty situation grants free throws for the opposing team after a foul.\n
+    · Held ball − Sometimes a player is surrounded by too many opponents that he cannot pass the ball to any of his teammates. He holds the ball tightly and sometimes even one of his opponents might also hold the ball at the same time. To take control of the ball, one of them should snatch it by force. This situation is called a held ball.\n
+    · Jump ball − A referee may call for a jump ball to deal with a held ball situation and bring the ball back into play. The referee also starts the game with a jump ball. A ball is thrown vertically in the air between two opponents. Any one among them pushes it to a teammate.\n
+    · Point guard, Shooting guard, Small forward, Power forward, Center − These are various positions of team members. It is not necessary for them to take a particular position, and a team may choose to discard team positions. It is sometimes used to attract attention and to satisfy viewers.\n\n
+    </string>
+
+    <string name="Basketball_Playing_Environment">
+     There are many variants of basketball, some play indoors and some outdoors, some play on larger grounds, and some teams have more players. We can play the fun game on any flat surface but FIBA, the organizing body has laid down some guidelines for a basketball court.\n\n
+
+     Court Design\n\n
+
+    A standard international basketball court is an indoor, rectangular court with dimensions 50 feet × 94 feet.\n
+    Courts at schools may be smaller. The court is divided into two symmetrical halves, one for each team. Various markings are painted on the court. There’s a circle at the center, free throw semi circles, restricted areas and three-point lines are marked on either side of the court. A no charge semi circular area is marked just below the basket.\n
+    </string>
+
+    <string name="Basketball_Tournaments">
+    Coach Forrest C. (Phog) Allen led a movement to include basketball in the Olympics in 1936. Basketball is widely played across the world. About 215 various national basketball organizations are members of FIBA. Many of these federations organize basketball championships and the winners take part in international events.\n\n
+    Some of the popular international championships are listed below −\n\n
+    FIBA Basketball World Cup\n\n
+    FIBA women’s World Championship\n\n
+    NCAA women’s Championship\n\n
+    NCAA men’s Championship\n\n
+    WNBA Championship\n\n
+    NBA Championship\n\n
+    FIBA Asia Championship\n\n
+    *NCAA − National Collegiate Athletic Association\n\n
+    *WNBA − Womens National Basketball Association\n\n
+    </string>
+
+
+    <string name="Basketball_Hall_of_fame">
+    A complete list of all inductees in the Naismith Memorial Basketball Hall of Fame:\n\n
+    2020\n\n
+
+1.	Kobe Bryant, Player\n
+2.	Tim Duncan, Player\n
+3.	Kevin Garnett, Player\n
+4.	Eddie Sutton, Coach\n
+5.	Rudy Tomjanovich, Coach\n
+6.	Tamika Catchings, Player\n
+7.	Kim Mulkey, Coach\n
+8.	Barbara Stevens, Coach\n
+9.	Patrick Baumann, Contributor\n\n
+2019\n\n
+1.	Al Attles, Contributor\n
+2.	Carl Braun, Player\n
+3.	Charles “Chuck” Cooper, Player\n
+4.	Vlade Divac, Player\n
+5.	Bill Fitch, Coach\n
+6.	Bobby Jones, Player\n
+7.	Sidney Moncrief, Player\n
+8.	Jack Sikma, Player\n
+9.	Tennessee A and I Teams Of 1957-59, Team\n
+10.	Wayland Baptist University Teams Of 1948-82, Team\n
+11.	Teresa Weatherspoon, Player\n
+12.	Paul Westphal, Player\n\n
+2018\n\n
+1.	Ray Allen, Player\n\n
+2.	Maurice Cheeks, Player\n
+3.	Charles “Lefty” Driesell, Coach\n
+4.	Grant Hill, Player\n
+5.	Jason Kidd, Player\n
+6.	Steve Nash, Player\n
+7.	Tina Thompson, Player\n
+8.	Dino Radja, Player\n
+9.	Charlie Scott, Player\n
+10.	Ora Mae Washington, Player\n
+11.	Rod Thorn, Contributor\n
+12.	Rick Welts, Contributor\n
+13.	Katie Smith, Player\n\n
+2017\n\n
+1.	Robert Hughes, Coach\n
+2.	Tracy McGrady, Player\n
+3.	Bill Self, Coach\n
+4.	Rebecca Lobo, Contributor\n
+5.	Muffet McGraw, Coach\n
+6.	Mannie Jackson, Contributor\n
+7.	Tom Jernstedt, Contributor\n
+8.	Jerry Krause, Contributor\n
+9.	Zack Clayton, Player\n
+10.	Nick Galis, Player\n
+11.	George McGinnis, Player\n\n
+2016\n\n
+1.	Zelmo Beaty, Player\n
+2.	Darell Garretson, Referee\n
+3.	Allen Iverson, Player\n
+4.	Tom Izzo, Coach\n
+5.	John McClendon, Coach\n
+6.	Yao Ming, Player\n
+7.	Shaquille O’Neal, Player\n
+8.	Cumberland Posey, Player\n
+9.	Jerry Reinsdorf, Contributor\n
+10.	Sheryl Swoopes, Player\n\n
+2015\n\n
+1.	Dick Bavetta, Referee\n
+2.	John Calipari, Coach\n
+3.	Louie Dampier, Player\n
+4.	Lindsay Gaze, Coach\n
+5.	Tom Heinsohn, Coach\n
+6.	John Isaacs, Player\n
+7.	Lisa Leslie, Player\n
+8.	Dikembe Mutombo, Player\n
+9.	George Raveling, Contributor\n
+10.	Jo Jo White, Player\n\n
+2014\n\n
+1.	David Stern, Contributor\n
+2.	Alonzo Mourning, Player\n
+3.	Mitch Richmond, Player\n
+4.	Guy Rodgers, Player\n
+5.	Sarunas Marciulionis, Player\n
+6.	Nolan Richardson, Coach\n
+7.	Gary Williams, Coach\n
+8.	Bob Leonard, Coach\n
+9.	Nat Clifton, Contributor\n
+10.	Immaculata University, Team\n\n
+2013\n\n
+1.	Gary Payton, Player\n
+2.	Bernard King, Player\n
+3.	Roger Brown, Player\n
+4.	Rick Pitino, Coach\n
+5.	Sylvia Hatchell, Coach\n
+6.	Dawn Staley, Player\n
+7.	Edwin B. Henderson, Contributor\n
+8.	Oscar Schmidt, Player\n
+9.	Richard Geurin, Player\n
+10.	Russ Granik, Contributor\n\n
+2012\n\n
+1.	Mel Daniels, Player\n
+2.	Don Barskdale, Contributor\n
+3.	Lidia Alexeeva, Coach\n
+4.	Chet Walker, Player\n
+5.	Phil Knight, Contributor\n
+6.	Reggie Miller, Player\n
+7.	Don Nelson, Coach\n
+8.	Hank Nichols, Referee\n
+9.	Ralph Sampson, Player\n
+10.	Jamaal Wilkes, Player\n
+11.	All-American Red Heads, Team\n
+12.	Katrina McClain, Player\n\n
+2011\n\n
+1.	Teresa Edwards, Player\n
+2.	Artis Gilmore, Player\n
+3.	Herb Magee, Coach\n
+4.	Chris Mullin, Player\n
+5.	Dennis Rodman, Player\n
+6.	Arvydas Sabonis, Player\n
+7.	Tom Sanders, Contributor\n
+8.	Goose Tatum, Player\n
+9.	Tara Van Derveer, Coach\n
+10.	Tex Winter, Coach\n\n
+2010\n\n
+1.	1960 USA Men’s Olympic Team, Team\n
+2.	1992 USA Men’s Olympic Team, Team\n
+3.	Jerry Buss, Contributor\n
+4.	Cynthia Cooper-Dyke, Player\n
+5.	Bob Hurley, Coach\n
+6.	Dennis Johnson, Player\n
+7.	Gus Johnson, Player\n
+8.	Karl Malone, Player\n
+9.	Maciel Pereira, Player\n
+10.	Scottie Pippen, Player\n\n
+2009\n\n
+1.	Michael Jordan, Player\n
+2.	David Robinson, Player\n
+3.	Jerry Sloan, Coach\n
+4.	John Stockton, Player\n
+5.	C. Vivian Stringer, Coach\n\n
+2008\n\n
+1.	Adrian Dantley, Player\n
+2.	Bill Davidson, Contributor\n
+3.	Patrick Ewing, Player\n
+4.	Hakeem Olajuwon, Player\n
+5.	Pat Riley, Coach\n
+6.	Catchy Rush, Coach\n
+7.	Dick Vitale, Contributor\n\n
+2007\n\n
+1.	Phil Jackson, Coach\n
+2.	Roy Williams, Coach\n
+3.	Texas Western, Team\n
+4.	Van Chancellor, Coach\n
+5.	Pedro Ferrandiz, Coach\n
+6.	Mirko Novosel, Coach\n
+7.	Mendy Rudolph, Referee\n\n
+2006\n\n
+1.	Charles Barkley, Player\n
+2.	Joe Dumars, Player\n
+3.	Dominique Wilkins, Player\n
+4.	Geno Auriemma, Coach\n
+5.	Sandro Gamba, Coach\n
+6.	Dave Gavitt, Contributor\n\n
+2005\n\n
+1.	Jim Boeheim, Coach\n
+2.	Hubie Brown, Coach\n
+3.	Jim Calhoun, Coach\n
+4.	Sue Gunter, Coach\n
+5.	Hortencia Marcari, Player\n\n
+2004\n\n
+1.	Clyde Drexler, Player\n
+2.	Jerry Colangelo, Contributor\n
+3.	Bill Sharman, Coach\n
+4.	Drazen Dalipagic, Player\n
+5.	Maurice Stokes, Player\n
+6.	Lynette Woodard, Player\n\n
+2003\n\n
+1.	Robert Parish, Player\n
+2.	James Worthy, Player\n
+3.	Dino Meneghin, Player\n
+4.	Meadowlark Lemon, Contributor\n
+5.	Chick Hearn, Contributor\n
+6.	Leon Barmore, Coach\n
+7.	Earl Lloyd, Contributor\n\n
+2002\n\n
+1.	Magic Johnson, Player\n
+2.	Drazen Petrovic, Player\n
+3.	Larry Brown, Coach\n
+4.	Harlem Globetrotters, Team\n
+5.	Lute Olson, Coach\n
+6.	Kay Yow, Coach\n\n
+2001\n\n
+1.	Moses Malone, Player\n
+2.	Mike Krzyzewski, Coach\n
+3.	John Chaney, Coach\n
+2000\n\n
+1.	Isiah Thomas, Player\n
+2.	Pat Summit, Coach\n
+3.	Bob McAdoo, Player\n
+4.	Danny Biasone, Contributor\n
+5.	Charles Newton, Contributor\n
+6.	Morgan Wooten, Coach\n\n
+1999\n\n
+1.	Kevin McHale, Player\n
+2.	Wayne Embry, Contributor\n
+3.	Billie Moore, Coach\n
+4.	John Thompson, Coach\n
+5.	Fred Zollner, Contributor\n\n
+1998\n\n
+1.	Larry Bird, Player\n
+2.	Lenny Wilkens, Coach\n
+3.	Jody Conradt, Coach\n
+4.	Alex Hannum, Coach\n
+5.	Marques Haynes, Player\n
+6.	Aleksandar Nikolic, Coach\n
+7.	Arnie Risen, Player\n\n
+1997\n\n
+1.	Alex English, Player\n
+2.	Pete Carril, Coach\n
+3.	Joan Crawford, Player\n
+4.	Denise Curry, Player\n
+5.	Antonio Diaz-Miguel, Coach\n
+6.	Don Haskins, Coach\n
+7.	Bailey Howell, Player\n\n
+1996\n\n
+1.	George Gervin, Player\n
+2.	Gail Goodrich, Player\n
+3.	David Thompson, Player\n
+4.	Kresimir Cosic, Player\n
+5.	Nancy Lieberman-Cline, Player\n
+6.	George Yardley, Player\n\n
+1995\n\n
+1.	Kareem Abdul-Jabbar, Player\n
+2.	Cheryl Miller, Player\n
+3.	Anne Donovan, Player\n
+4.	Aleksandr Gomelsky, Coach\n
+5.	John Kundla, Coach\n
+6.	Vern Mikkelsen, Player\n
+7.	Earl Storm, Referee\n\n
+1994\n\n
+1.	Chuck Daly, Coach\n
+2.	Denny Crum, Coach\n
+3.	Carol Blazejowski, Player\n
+4.	Buddy Jeannette, Player\n
+5.	Cesare Rubini, Coach\n\n
+1993\n\n
+1.	Julius Erving, Player\n
+2.	Bill Walton, Player\n
+3.	Calvin Murphy, Player\n
+4.	Walt Bellamy, Player\n
+5.	Dan Issell, Player\n
+6.	Dick McGuire, Player\n
+7.	Ann Meyers, Player\n
+8.	Uljana Semjonova, Player\n\n
+1992\n\n
+1.	Bob Lanier, Player\n
+2.	Connie Hawkins, Player\n
+3.	Sergei Belov, Player\n
+4.	Lou Carnesecca, Coach\n
+5.	Lusia Harris-Stewart, Player\n
+6.	Alfred McGuire, Coach\n
+7.	Jack Ramsay, Coach\n
+8.	Nera White, Player\n
+9.	Phillip Woolpert, Coach\n\n
+1991\n\n
+1.	Tiny Archibald, Player\n
+2.	Bob Knight, Coach\n
+3.	Lawrence O’Brien, Contributor\n
+4.	Dave Cowens, Player\n
+5.	Larry Fleisher, Contributor\n
+6.	Harry Gallatin, Player\n
+7.	Borislav Stankovic, Contributor\n\n
+1990\n\n
+1.	Earl Monroe, Player\n
+2.	Dave Bing, Player\n
+3.	Elvin Hayes, Player\n
+4.	Neil Johnston, Player\n\n
+1989\n\n
+1.	Lenny Wilkens, Player\n
+2.	Pop Gates, Player\n
+3.	K.C. Jones, Player\n\n
+1988\n\n
+1.	Wes Unseld, Player\n
+2.	Ralph Miller, Coach\n
+3.	Bob McDermott, Player\n
+4.	Clyde Lovellette, Player\n\n
+1987\n\n
+1.	Rick Barry, Player\n
+2.	Walt Frazier, Player\n
+3.	Pete Maravich, Player\n
+4.	Bobby Wanzer, Player\n
+5.	Bob Houbregs, Player\n\n
+1986\n\n
+1.	Red Holzman, Coach\n
+2.	Tom Heinsohn, Player\n
+3.	Billy Cunningham, Player\n
+4.	Red Mihalik, Referee\n
+5.	Fred Taylor, Coach\n
+6.	Stanley Watts, Coach\n\n
+1985\n\n
+1.	Nate Thurmond, Player\n
+2.	Harold Anderson, Coach\n
+3.	Senda Berenson Abbott, Contributor\n
+4.	Al Cervi, Player\n
+5.	Marv Harshman, Coach\n
+6.	Bertha Teague, Contributor\n
+7.	Margaret Wade, Coach\n\n
+1984\n\n
+1.	John Havlicek, Player\n
+2.	Sam Jones, Player\n
+3.	Clifford Fagan, Contributor\n
+4.	Jack Gardner, Coach\n
+5.	Edward Steitz, Contributor\n\n
+1983\n\n
+1.	Bill Bradley, Player\n
+2.	Dean Smith, Coach\n
+3.	Dave DeBusschere, Player\n
+4.	Lloyd Leith, Referee\n
+5.	Jack Twyman, Player\n
+6.	Louis Wilke, Contributor\n\n
+1982\n\n
+1.	Willis Reed, Player\n
+2.	Frank Ramsey, Player\n
+3.	Slater Martin, Player\n
+4.	Hal Greer, Player\n
+5.	Clarence Gaines, Coach\n
+6.	Alva Duer, Contributor\n
+7.	Everett Case, Coach\n\n
+1981\n\n
+1.	Thomas Barlow, Player\n
+2.	Ferenc Hepp, Contributor\n
+3.	Walter Kennedy, Contributor\n
+4.	Arad McCutchan, Coach\n\n
+1980\n\n
+1.	Oscar Robertson, Player\n
+2.	Jerry Lucas, Player\n
+3.	Jerry West, Player\n
+4.	Les Harrison, Contributor\n
+5.	Everett Shelton, Coach\n
+6.	Dallas Shirley, Referee\n\n
+1979\n\n
+1.	Wilt Chamberlain, Player\n
+2.	Sam Barry, Coach\n
+3.	James Enright, Referee\n
+4.	Edgar Hickey, Coach\n
+5.	John McLendon, Coach\n
+6.	Ray Meyer, Coach\n
+7.	Pete Newell, Coach\n\n
+1978\n\n
+1.	Paul Arizin, Player\n
+2.	Joe Fulks, Player\n
+3.	Cliff Hagan, Player\n
+4.	John Nucatola, Referee\n
+5.	Jim Pollard, Player\n\n
+1977\n\n
+1.	Elgin Baylor, Player\n
+2.	Charles Cooper, Player\n
+3.	Lauren Gale, Player\n
+4.	William Johnson, Player\n
+5.	Frank McGuire, Coach\n\n
+1976\n\n
+1.	Tom Gola, Player\n
+2.	Ed Krause, Player\n
+3.	Harry Litwack, Coach\n
+4.	Bill Sharman, Player\n\n
+1975\n\n
+1.	Bill Russell, Player\n
+2.	Joseph Brennan, Player\n
+3.	Emil Liston, Contributor\n
+4.	Robert Vandivier, Player\n\n
+1974\n\n
+1.	Harry Fisher, Contributor\n
+2.	Maurice Podoloff, Contributor\n
+3.	Ernest Schmidt, Player\n\n
+1973\n\n
+1.	John Beckman, Player\n
+2.	Bruce Drake, Coach\n
+3.	Arthur Lonborg, Coach\n
+4.	Elmer Ripley, Contributor\n
+5.	Dolph Schayes, Player\n
+6.	John Wooden, Coach\n\n
+1972\n\n
+1.	Edgar Diddle, Coach\n
+2.	Robert Douglas, Contributor\n
+3.	Paul Endacott, Player\n
+4.	Max Friedman, Player\n
+5.	Edward Gottlieb, Contributor\n
+6.	Clifford Wells, Contributor\n\n
+1971\n\n
+1.	Bob Cousy, Player\n
+2.	Bob Pettit, Player\n
+3.	Abe Saperstein, Contributor\n\n
+1970\n\n
+1.	Bernard Carnevale, Coach\n
+2.	Bob Davies, Player\n\n
+1969\n\n
+1.	Red Auerbach, Coach\n
+2.	Dutch Dehnert, Player\n
+3.	Henry Iba, Coach\n
+4.	Adolph Rupp, Coach\n
+5.	Charles Taylor, Contributor\n\n
+1968\n\n
+1.	Clair Bee, Contributor\n
+2.	Howard Cann, Coach\n
+3.	Amory Gill, Coach\n
+4.	Alvin Julian, Coach\n\n
+1966\n\n
+1.	Everett Dean, Coach\n
+2.	Joe Lapchick, Player\n\n
+1965\n\n
+1.	Walter Brown, Contributor\n
+2.	Paul Hinkle, Contributor\n
+3.	Howard Hobson, Coach\n
+4.	William Mokray, Contributor\n\n
+1964\n\n
+1.	John Bunn, Contributor\n
+2.	Harold Foster, Player\n
+3.	Nat Holman, Player\n
+4.	Ned Irish, Contributor\n
+5.	William Jones, Contributor\n
+6.	Kenneth Loeffler, Coach\n
+7.	John Russell, Player\n\n
+1963\n\n
+1.	New York Rens, Team\n
+2.	Robert Gruenig, Player\n
+3.	William Reid, Contributor\n\n
+1962\n\n
+1.	Jack McCracken, Player\n
+2.	Frank Morgenweck, Contributor\n
+3.	Harlan Page, Player\n
+4.	Barney Sedran, Player\n
+5.	Lynn St. John, Contributor\n
+6.	John Thompson, Player\n\n
+1961\n\n
+1.	Buffalo Germans, Team\n
+2.	Bergnard Borgmann, Player\n
+3.	Forrest DeBernardi, Player\n
+4.	George Hoyt, Referee\n
+5.	Bob Kurland, Player\n
+6.	John O’Brien, Contributor\n
+7.	Andy Phillip, Player\n
+8.	Ernest Quigley, Referee\n
+9.	John Roosma, Player\n
+10.	Leonard Sachs, Coach\n
+11.	Arthur Schabinger, Contributor\n
+12.	Christian Steinmetz, Player\n
+13.	David Tobey, Referee\n
+14.	Arthur Trester, Contributor\n
+15.	Edward Wachter, Player\n
+16.	David Walsh, Referee\n\n
+1960\n\n
+1.	Ernest Blood, Coach\n
+2.	Victor Hanson, Player\n
+3.	George Hepbron, Referee\n
+4.	Frank Keaney, Coach\n
+5.	Ward Lambert, Coach\n
+6.	Ed Macauley, Player\n
+7.	Branch McCracken, Player\n
+8.	Charles Murphy, Player\n
+9.	Henry Porter, Contributor\n
+10.	John Wooden, Player\n\n
+1959\n\n
+1.	Original Celtics, Team\n
+2.	The First Team, Team\n
+3.	Phog Allen, Coach\n
+4.	Henry Clifford Carlson, Coach\n
+5.	Luther Gulick, Contributor\n
+6.	Edward Hickox, Contributor\n
+7.	Charles Hyatt, Player\n
+8.	Matthew Kennedy, Referee\n
+9.	Hank Luisetti, Player\n
+10.	Walter Meanwell, Coach\n
+11.	George Mikan, Player\n
+12.	Ralph Morgan, Contributor|\n
+13.	James Naismith, Contributor\n
+14.	Harold Olsen, Contributor\n
+15.	John Schommer, Player\n
+16.	Amos Alonzo Stagg, Contributor\n
+17.	Oswald Tower, Contributor\n\n
+
+    </string>
+    <string name="basketball_how_to_play">Basketball - How to Play?</string>
+    <string name="title_activity_basketball__variants">Basketball_Variants</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
